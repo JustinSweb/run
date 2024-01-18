@@ -1,7 +1,7 @@
 // countdown.js
 
 // Set the date of the race (September 10th, 2024)
-var raceDate = new Date("September 8, 2024 00:00:00").getTime();
+var raceDate = new Date("September 7, 2025 00:00:00").getTime();
 
 // Update the countdown every second
 var countdown = setInterval(function() {
